@@ -1,7 +1,7 @@
 # Kalkule
 ___
 
-## Time de desenvolvimento 6Legends.
+## Developer's team 6Legends.
 * Aline Oliveira Bellé
 * Charles Esteffan Cavalcante
 * Jeferson Souza da Costa
@@ -13,3 +13,5 @@ ___
 
 ### 4° A Informática - IFRO Campus Ariquemes
  * Professor: Aldison Diego
+
+*This readme will be updated*
