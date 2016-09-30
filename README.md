@@ -1,7 +1,7 @@
 # Kalkule
 ___
 
-## Developer's team 6Legends.
+## 6Legends Developer's team
 * Aline Oliveira Bellé
 * Charles Esteffan Cavalcante
 * Jeferson Souza da Costa
